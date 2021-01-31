@@ -39,3 +39,4 @@ Please note that this app is not an open source app. If you have any issues, ple
 jseun112@gmail.com
 
 If you like my app, you can download it on Google Play.
+[UK News](https://play.google.com/store/apps/details?id=com.dotori.news)
