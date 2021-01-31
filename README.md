@@ -25,9 +25,6 @@ You need to insert your API key.
 * RecyclerView
 
 ### Screenshots
-<img src="./Screenshot_1606353910.png" width="200">
-
-### Image resources
 <img src="./mobile-mockup-1606354715456.png" width="300"> <img src="./mobile-mockup-1606354798359.png" width="300">
 
 # UK News 
