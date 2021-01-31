@@ -35,5 +35,4 @@ I’m happy that I was able to build something useful, and I want to thank you f
 Please note that this app is not an open source app. If you have any issues, please feel free to contact me. Your comments and suggestions are important to me. I love your feedback. 
 jseun112@gmail.com
 
-If you like my app, you can download it on Google Play.
-[UK News](https://play.google.com/store/apps/details?id=com.dotori.news)
+If you like my app, you can download it on [Google Play](https://play.google.com/store/apps/details?id=com.dotori.news).
