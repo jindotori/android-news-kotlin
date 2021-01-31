@@ -25,7 +25,9 @@ You need to insert your API key.
 * RecyclerView
 
 ### Screenshots
+![screenshot_1](./Screenshot_1606353910.png)
 
+![screenshot_1](./Screenshot_1606354335.png)
 
 ### Image resources
 
