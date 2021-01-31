@@ -1,5 +1,5 @@
 # News App
-개인 어플 제작 공부를 위해 개발하였습니다.
+Developed for personal application production study.
 
 ### Project Overview
 
