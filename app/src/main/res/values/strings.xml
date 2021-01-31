@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UK News</string>
+    <string name="home">Home</string>
+    <string name="highlight">Highlight</string>
+
+
+    <string name="image_des">Image</string>
+
+    <string name="noti_exit">Press once more to close the app.</string>
+    <string name="author_anonymous">Anonymous</string>
+
+
+    <!-- admob Test ID -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
