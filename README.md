@@ -25,7 +25,7 @@ You need to insert your API key.
 * RecyclerView
 
 ### Screenshots
-![screenshot_1](./Screenshot_1606353910.png | width=100)
+<img src="./Screenshot_1606353910.png" width="100" height="100">
 
 ![screenshot_1](./Screenshot_1606354335.png | width=100)
 
