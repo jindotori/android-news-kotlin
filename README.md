@@ -9,7 +9,7 @@ In this project, use [Guardian API](http://open-platform.theguardian.com/documen
 This is a well-maintained API which returns information in a JSON format.
 
 ### API Key Note
-You need to insert your API key.
+You need to insert your API key from [this page](https://open-platform.theguardian.com/access/).
 
 ### Features
 * MVVM
