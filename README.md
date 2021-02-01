@@ -13,16 +13,18 @@ You need to insert your API key from [this page](https://open-platform.theguardi
 
 ### Features
 * MVVM
+* AAC(Lifecycles, LiveData, ViewModel)
+* Coroutine
 * Fragments
 * ViewPager plus TabLayout
-* Intent
+* WebView
+* CardView
+* RecyclerView
 * Retrofit
 * Guardian API
 * JSON Parsing
 * Glide
-* WebView
-* CardView
-* RecyclerView
+* Intent
 
 ### Screenshots
 <img src="./mobile-mockup-1606354715456.png" width="300"> <img src="./mobile-mockup-1606354798359.png" width="300">
